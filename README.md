@@ -9,3 +9,5 @@ sudo apt-get update
 sudo apt-get install solc
 ```
 
+(snap is available too.)
+
