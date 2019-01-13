@@ -11,3 +11,8 @@ sudo apt-get install solc
 
 (snap is available too.)
 
+# version
+
+```
+solc --version
+```
